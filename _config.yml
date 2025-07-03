@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Park So Young"
 description              : "Slow but Steady"
 url                      : "https://soieu.github.io"
-baseurl                  : "/blog"
+baseurl                  : # "/blog"
 repository               : "soieu/soieu.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
