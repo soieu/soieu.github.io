@@ -3,6 +3,7 @@ permalink: /cv/
 layout: posts
 ---
 
+# PARK SO YOUNG
 **📅 Date of Birth:** July 9, 1998  
 **📞 Phone:** +82-10-2988-6898  
 **📧 Email:** [your.email@example.com]  
