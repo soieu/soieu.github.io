@@ -2,6 +2,7 @@
 title: '2025년 상반기를 보내며'
 date: 2025-07-01
 permalink: /posts/2025/07/first-half-of-year/
+categories: blog
 tags:
   - daily
   - personal
