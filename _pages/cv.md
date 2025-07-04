@@ -1,3 +1,7 @@
+---
+permalink: /cv/
+layout: posts
+---
 # PARK SO YOUNG
 
 **📅 Date of Birth:** July 9, 1998  
