@@ -19,7 +19,7 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  123
+  {% include toc.html title="목차" icon="list" %}
   {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
