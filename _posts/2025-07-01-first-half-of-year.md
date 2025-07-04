@@ -5,6 +5,8 @@ permalink: /blog/first-half-of-year/
 tags:
   - daily
   - personal
+toc_sticky: true
+toc: true
 ---
 대학원에 입학하게됐다. 면접을 볼 당시에는 나를 괜찮게 봐 주는 것 같다 생각했는데 설마 이 성적을 뽑아주실 진 몰랐다. 뜻밖에 찾아오게 된 기회니 만큼 최고의 최선을 다하고싶다.
 준비를 위해서 운동, 통계학 공부를 하고있다. 부디 이 노력이 대학원 생활에서 도움이 됐으면 좋겠다.
