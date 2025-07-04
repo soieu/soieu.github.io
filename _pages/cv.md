@@ -32,10 +32,10 @@ A highly motivated full-stack developer with a focus on backend technologies, AI
   Sep 2023 – Jan 2024
 
 - **Cloud-Based Java Backend Developer Course**  
-  May 2024 – Jul 2024 (ongoing)
+  May 2024 – Jul 2024
 
 - **AI Service Development with Python**  
-  Dec 2024 – Mar 2025 (planned)
+  Dec 2024 – Mar 2025
 
 ---
 
