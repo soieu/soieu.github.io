@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-layout: posts
+layout: single
 title: 'PARK SO YOUNG'
 ---
 
