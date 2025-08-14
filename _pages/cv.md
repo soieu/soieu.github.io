@@ -44,8 +44,8 @@ title: 'PARK SO YOUNG'
 - Redis 캐싱 전략 도입으로 반복 요청 처리 시간 단축
 
 **⚡ 실시간 스트리밍 아키텍처 전환**
-- OpenAI 기반 기존 배치형 챗봇을 실시간 스트리밍 방식으로 전환
-- Spring Boot를 활용한 배치 이미지 처리 시간 예측 모델 개발
+- socket 기반 기존 챗봇을 streaming responses 방식으로 전환
+- Spring Boot를 활용한 배치 이미지 처리 시간 예측 기능 개발발
 - Pydantic을 활용한 데이터 검증 및 직렬화 최적화
 
 ---
