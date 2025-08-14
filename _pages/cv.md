@@ -2,6 +2,10 @@
 **백엔드 개발자**
 
 ---
+permalink: /cv/
+layout: single
+title: 'PARK SO YOUNG'
+---
 
 ## 📋 기본 정보
 - **📅 생년월일:** 1998년 7월 9일
@@ -9,8 +13,6 @@
 - **📧 이메일:** soieu9898@gmail.com
 - **💻 GitHub:** https://github.com/soieu
 - **📝 기술 블로그:** http://soieu.net
-
----
 
 ## 🎯 개발자 소개
 **실행력과 문제 해결 능력을 갖춘 백엔드 개발자**
