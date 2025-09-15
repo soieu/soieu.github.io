@@ -6,8 +6,14 @@ main:
 #
 categories:
   - title: "프로그래밍"
-    url: /categories/programming/
+    children:
+      - title: "일반"
+        url : /categories/programming-common/
   - title: "인공지능"
-    url: /categories/ai/
+    children:
+      - title: "논문"
+        url : /categories/ai-paper/
   - title: "금융"
-    url: /categories/finance/
+    children:
+      - title: "논문"
+        url: /categories/finance-paper/
