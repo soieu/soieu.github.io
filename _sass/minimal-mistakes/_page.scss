@@ -84,11 +84,6 @@ body {
 }
 
 .page__content {
-  h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
-  }
-
 	h1, h2, h3, h4, h5, h6 {
 		.header-link {
 			position: relative;
@@ -109,7 +104,7 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: 0.8em;
   }
 
   /* paragraph indents */
