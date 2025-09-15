@@ -321,10 +321,10 @@ defaults:
     values:
       layout: single
 
-      
+
   - scope:
       path: ""
       type: default
-    valus:
+    values:
       sidebar:
         nav: "categories"      
