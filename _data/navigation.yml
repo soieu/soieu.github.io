@@ -6,6 +6,6 @@ main:
 #
 categories:
   - title: "programming"
-    url: /programming/
+    url: /categories/programming/
   - title: "ai"
-    url: /ai/
+    url: /categories/ai/
