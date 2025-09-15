@@ -5,7 +5,9 @@ main:
 
 #
 categories:
-  - title: "programming"
+  - title: "프로그래밍"
     url: /categories/programming/
-  - title: "ai"
+  - title: "인공지능"
     url: /categories/ai/
+  - title: "금융"
+    url: /categories/finance/
