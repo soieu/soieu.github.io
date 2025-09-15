@@ -314,13 +314,17 @@ defaults:
       comments: # true
       share: true
       related: true
-      sidebar:
-        nav: "categories"
   # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
+
+      
+  - scope:
+      path: ""
+      type: default
+    valus:
       sidebar:
-        nav: "categories"
+        nav: "categories"      
