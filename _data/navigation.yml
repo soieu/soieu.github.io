@@ -2,3 +2,10 @@
 main:
   - title: "ABOUT"
     url: /about/
+
+#
+categories:
+  - title: "programming"
+    url: /programming/
+  - title: "ai"
+    url: /ai/
